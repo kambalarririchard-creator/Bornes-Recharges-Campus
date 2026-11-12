@@ -1,5 +1,3 @@
-# Bornes-Recharges-Campus
-Étude de ka faisabilité économique et finacière de bornes de batteries portables sur un campus universitaire.
 # Installation de bornes de recharge de batteries portables sur un campus
 
 Projet de choix d’investissement réalisé dans le cadre du Master Économie numérique à l’Université de Montpellier.
